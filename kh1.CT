@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="26">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"EXP"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>203F1CD0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Level"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>203F1C94</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Max Health"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>203DDC34</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"Items"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>14</ID>
+          <Description Activated="1">"Megalixr"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2131</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>13</ID>
+          <Description Activated="1">"Mega Ether"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2130</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description Activated="1">"Mega potion"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F212f</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>10</ID>
+          <Description Activated="1">"Elixr"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F212d</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>9</ID>
+          <Description Activated="1">"Ether"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F212c</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>8</ID>
+          <Description Activated="1">"Hi Potion"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F212b</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description Activated="1">"Potion"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F212A</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>35</ID>
+      <Description>"Group 2"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>19</ID>
+          <Description Activated="1">"Log"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21E9</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>20</ID>
+          <Description Activated="1">"Cloth"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21Ea</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>21</ID>
+          <Description Activated="1">"Rope"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21Eb</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>22</ID>
+          <Description Activated="1">"Seaegg"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21Ec</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>23</ID>
+          <Description Activated="1">"Fish"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21Ed</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>25</ID>
+          <Description Activated="1">"Coconut"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21Ef</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>26</ID>
+          <Description Activated="1">"NAVI G"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21f1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>27</ID>
+          <Description Activated="1">"nAVI G (2)"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21f2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>28</ID>
+          <Description Activated="1">"Navi Gummi"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21f3</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>29</ID>
+          <Description Activated="1">"Navi G (3)"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21f4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>30</ID>
+          <Description Activated="1">"Navi G 4"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21f5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>31</ID>
+          <Description Activated="1">"Navi gummi"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21f6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>32</ID>
+          <Description Activated="1">"wathergleam"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21f7</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>33</ID>
+          <Description Activated="1">"Naturespark"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21f8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>34</ID>
+          <Description Activated="1">"Fireglow"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21f9</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>24</ID>
+          <Description Activated="1">"Mushroom"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21Ee</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>36</ID>
+          <Description Activated="1">"Driking water"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F21f0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>37</ID>
+          <Description Activated="1">"Torn Page"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2200</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>38</ID>
+          <Description Activated="1">"Torn Page 2"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2201</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>40</ID>
+          <Description Activated="1">"Slide 2"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2203</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>41</ID>
+          <Description Activated="1">"Slide 3"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2204</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>42</ID>
+          <Description Activated="1">"Slide 4"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2205</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>43</ID>
+          <Description Activated="1">"Slide 5"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2206</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>44</ID>
+          <Description Activated="1">"Slide 6"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2207</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>39</ID>
+          <Description Activated="1">"Slide 1"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2202</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>45</ID>
+          <Description Activated="1">"Footprints"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2208</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>47</ID>
+          <Description Activated="1">"Stench"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F220a</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>48</ID>
+          <Description Activated="1">"antenna"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F220b</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>49</ID>
+          <Description Activated="1">"Forget me not"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F220c</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>50</ID>
+          <Description Activated="1">"Jack in the box"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F220d</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>51</ID>
+          <Description Activated="1">"Entry pass"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F220e</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>52</ID>
+          <Description Activated="1">"Hero Licnese"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F220f</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>53</ID>
+          <Description Activated="1">"pretty stone"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2210</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>54</ID>
+          <Description Activated="1">"Lucid shard"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2212</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>55</ID>
+          <Description Activated="1">"Lucid gem"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2213</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>56</ID>
+          <Description Activated="1">"Lucid crystesel"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>203F2214</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>57</ID>
+          <Description Activated="1">"Spirt shard"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2215</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>58</ID>
+          <Description Activated="1">"Spirt gem"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2216</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>46</ID>
+          <Description Activated="1">"ClawMarks"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2209</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>59</ID>
+          <Description Activated="1">"Power shard"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2217</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>73</ID>
+          <Description Activated="1">"Mysthril shard"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2226</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>61</ID>
+          <Description Activated="1">"Power cystesel"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2219</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>62</ID>
+          <Description Activated="1">"Blaze shard "</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F221a</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>63</ID>
+          <Description Activated="1">"Blaze gem"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F221b</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>64</ID>
+          <Description Activated="1">"Frost shard"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F221c</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>65</ID>
+          <Description Activated="1">"Frostgme"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F221d</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>66</ID>
+          <Description Activated="1">"Thunder shard"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F221e</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>67</ID>
+          <Description Activated="1">"shinny cystel"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2220</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>68</ID>
+          <Description Activated="1">"Bright shard"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2221</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>69</ID>
+          <Description Activated="1">"Bright Gem"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2222</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>70</ID>
+          <Description Activated="1">"Bright cystel"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2223</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>71</ID>
+          <Description Activated="1">"Mystery goo"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2224</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>72</ID>
+          <Description Activated="1">"Gale"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2225</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>74</ID>
+          <Description Activated="1">"Mythrile"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2227</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>75</ID>
+          <Description Activated="1">"Orichalum"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>203F2228</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>60</ID>
+          <Description Activated="1">"Power gem"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>203F2218</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
